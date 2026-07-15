@@ -1,0 +1,76 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+env/
+.venv/
+ENV/
+
+# =========================
+# Jupyter Notebooks
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# IDEs
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs
+# =========================
+logs/
+*.log
+
+# =========================
+# Environment Variables
+# =========================
+.env
+.env.*
+
+# =========================
+# Build & Distribution
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Spark
+# =========================
+spark-warehouse/
+metastore_db/
+derby.log
+
+# =========================
+# Temporary Files
+# =========================
+tmp/
+temp/
+*.tmp
+
+# =========================
+# Data Files (Optional)
+# Uncomment if datasets are large
+# =========================
+# data/
+# *.csv
+# *.parquet
+# *.json
+
+# =========================
+# Databricks
+# =========================
+.databricks/
