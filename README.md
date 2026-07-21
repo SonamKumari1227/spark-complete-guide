@@ -1,11 +1,14 @@
-# Spark Complete Guide
+# Spark Complete Guide (Apache Spark & PySpark)
 
 ![PySpark](https://img.shields.io/badge/PySpark-Learning-orange)
 ![Apache Spark](https://img.shields.io/badge/Apache-Spark-red)
 ![Data Engineering](https://img.shields.io/badge/Data-Engineering-blue)
 ![Python](https://img.shields.io/badge/Python-3.10+-green)
 
-A comprehensive PySpark learning repository covering Spark Architecture, RDDs, DataFrames, Spark SQL, AQE, Performance Tuning, Optimizations, DAGs, and Real-World Data Engineering Concepts.
+
+A comprehensive hands-on Apache Spark and PySpark repository covering Spark internals, distributed processing concepts, performance tuning techniques, real-world optimization scenarios, and end-to-end data engineering implementations.
+
+This repository combines theory, production-ready code examples, optimization experiments, Spark UI analysis, and practical data engineering use cases to build a strong understanding of how Spark works under the hood.
 
 ---
 
